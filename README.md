@@ -35,3 +35,5 @@ time = 3900 seconds to minutes
 time * 2
 
 1 EUR in USD 1.074379 USD
+
+# first update from folk
