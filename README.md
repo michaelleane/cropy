@@ -17,3 +17,21 @@ Welcome to cropy! 👋
 ⌘ + ⌥ + Up/Down     Add additional cursor above/below
 
 ⌥ + Shift + F       Format block content (works for JSON, JavaScript, HTML, CSS and Markdown)
+
+This is a Math block. Here, rows are evaluated as math expressions. 
+
+radius = 5
+
+volume = radius^2 * PI
+
+sqrt(9)
+
+It also supports some basic unit conversions, including currencies:
+
+13 inches in cm
+
+time = 3900 seconds to minutes
+
+time * 2
+
+1 EUR in USD 1.074379 USD
